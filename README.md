@@ -1,7 +1,7 @@
 # wootechcourse_7th_application
 우아한 테크코스 7기 지원서에 작성한 몰입 경험에 관한 증빙 자료를 업로드한 페이지입니다.
 1. 대학생 수학경시대회 수상 내역  
-[35th_math_contest_award.pdf](35th_math_contest_award.pdf)
+[35th_math_contest_award.jpg](35th_math_contest_award.jpg)
 2. 달리기  
    1. Instagram 계정: [instagram_running.PNG](instagram_running.PNG)
    2. 초반 기록: [instagram_running_20200908.jpg](instagram_running_20200908.jpg)  
